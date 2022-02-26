@@ -244,6 +244,9 @@
 #### [memcached全面剖析](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/memcached%E5%85%A8%E9%9D%A2%E5%89%96%E6%9E%90.pdf)
 #### [OpenStack设计与实现](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/OpenStack%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 #### [PHP从入门到精通](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/PHP%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A(%E7%AC%AC3%E7%89%88).pdf)
+
+#### [Python Crash Course 英文原版](https://github.com/jyj407/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/Python%20Crash%20Course.pdf)
+
 #### [RFID系列之入门篇](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/RFID%E7%B3%BB%E5%88%97%E4%B9%8B%E5%85%A5%E9%97%A8%E7%AF%87.pdf)
 #### [redis设计与实现](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf)
 #### [STL源码剖析](https://github.com/0voice/expert_readed_books/blob/master/%E8%BD%AF%E4%BB%B6%E6%8A%80%E6%9C%AF/STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)
