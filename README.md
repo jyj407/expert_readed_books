@@ -1,4 +1,8 @@
-## 2021年总结，推荐工程师合适读本，计算机科学，软件技术，软件工程，创业，设计类，思想类，数学类等等，内容介绍，读后感受，欢迎沟通交流心得。
+## 2024年最新总结，推荐工程师合适读本，计算机科学，软件技术，软件工程，创业，设计类，思想类，数学类等等，内容介绍，读后感受，欢迎沟通交流心得。
+
+---
+
+<img src="https://www.0voice.com/uiwebsite/img/0voice/list.png">
 
 <br/>
 <br/>
@@ -92,6 +96,8 @@
 
 
 ###### 喜欢的书籍，请购买正版书籍。尊重知识，尊重原作者付出。电子书只能满足收藏欲望，不足以满足对知识的渴望。如有侵权，提交issue，第一时间删除。
+
+
 
 
 ## 计算机科学类
@@ -618,18 +624,35 @@
 <br/>
 <br/>
 
-<h3 >联系我们</h3> 
+<h3 >金主爸爸</h3> 
 
 ---
-#### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
-每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
-  
-#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
+##### 安利术语：零声，专注于C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK, SPDK, bpf/ebpf等等相关技术分享。本repo由零声的小伙伴推动以及所有提交patch的小伙伴（后面鸣谢部分）参与，共同完成。内容来源于互联网，本repo仅限于整理总结。
 
+##### 零声交流群: 762073882, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播通知！](https://jq.qq.com/?_wv=1027&k=sEIbk6yO)
 
-  
+##### 点击进入 [每晚八点技术直播](https://ke.qq.com/course/417774?flowToken=1024646)
+
+<br/>
+<br/>
+
+## 鸣谢
+
+##### 感谢各位贡献patch的朋友， 还很多在issue里面出谋划策的朋友，为此衷心感谢。【排名规则：按照patch提交时间排序】
+
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars2.githubusercontent.com/u/18027560?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/410974689">
+    <img src="https://avatars1.githubusercontent.com/u/20748764?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/GengXYGit">
+    <img src="https://avatars3.githubusercontent.com/u/43578568?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/wenchao1024">
+    <img src="https://avatars3.githubusercontent.com/u/87457873?s=400&v=4" width="40px">
+</a> 
   
   
   
